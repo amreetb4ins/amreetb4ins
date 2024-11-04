@@ -28,8 +28,8 @@
 
 <div id="stats" align="center">
   <strong><br>My Stats 📊<br></strong>
-    <br><img height="200" src="https://github-readme-stats.vercel.app/api?username=amreetb4ins&show_icons=true&theme=panda&layout=compact&card_width=320" >
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreetb4ins&theme=panda&layout=compact&card_width=320" >
+    <br><img height="200" src="https://github-readme-stats.vercel.app/api?username=amreetb4ins&show_icons=true&theme=panda&layout=compact&card_width=250" >
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreetb4ins&theme=panda&layout=compact&card_width=300" >
 </div>
 
 <!---
