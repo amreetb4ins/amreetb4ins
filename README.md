@@ -17,6 +17,7 @@
 <div id="linkedin" align="center" >
  <h6>Let's Connect!<br></h6> 
   <a href="https://www.linkedin.com/in/amreetbains/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkdin badge">
+  <a href="https://www.codewars.com/users/amreetb4ins"><img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="codewars badge">
 </div>
 
 <hr>
