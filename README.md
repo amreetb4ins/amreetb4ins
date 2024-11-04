@@ -30,6 +30,7 @@
   <strong><br>My Stats 📊<br></strong>
     <br><img height="200" src="https://github-readme-stats.vercel.app/api?username=amreetb4ins&show_icons=true&theme=panda&layout=compact&card_width=250" >
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreetb4ins&theme=panda&layout=compact&card_width=300" >
+   <br><img src="https://github.r2v.ch/codewars?user=amreetb4ins&layout=compact&card_width=300&theme=nightowl&hide_clan=true">
 </div>
 
 <!---
