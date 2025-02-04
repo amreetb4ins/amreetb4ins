@@ -12,7 +12,7 @@
   <hr>
     
 <div id="about-me"align="center" >
-  <br> I’m currently learning HTML, CSS, JavaScript, Ruby & Ruby on Rails 👩🏽‍💻
+  <br> I’m currently learning HTML, CSS, JavaScript,Python Ruby & Ruby on Rails 👩🏽‍💻
 </div>
 <div id="linkedin" align="center" >
  <h6>Let's Connect!<br></h6> 
@@ -23,7 +23,7 @@
 <hr>
 <div id ="tech-stack" align="center">
   <strong><br>My Tech Stack 💻<br></strong>
-<br><img src="https://skillicons.dev/icons?i=ruby,rails,html,css,javascript,heroku,scss">
+<br><img src="https://skillicons.dev/icons?i=ruby,rails,html,css,javascript,heroku,scss,python">
 </div>
   <hr>
 
